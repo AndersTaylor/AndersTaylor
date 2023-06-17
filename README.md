@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently learning C++ for game design.
+I'm currently learning C++ and game design.
 Ask me about the micro indie game scene.
 
 <!--
